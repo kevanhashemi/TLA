@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+	<head>
+		<meta name="dtb:uid" content="f3494267-4fbe-4de3-b47d-3ed720a5bc25"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+
+	<docTitle>
+		<text>The Longest Art</text>
+	</docTitle>
+
+	<navMap>
+		<navPoint id="TLA_000" playOrder="1">
+			<navLabel><text>Contents</text></navLabel>
+			<content src="TLA_000.html"/>
+		</navPoint>
+		<navPoint id="TLA_001" playOrder="2">
+			<navLabel><text>Cover</text></navLabel>
+			<content src="TLA_001.html"/>
+		</navPoint>
+		<navPoint id="TLA_002" playOrder="3">
+			<navLabel><text>Dedication</text></navLabel>
+			<content src="TLA_002.html"/>
+		</navPoint>
+		<navPoint id="TLA_003" playOrder="4">
+			<navLabel><text>Acknowledgement</text></navLabel>
+			<content src="TLA_003.html"/>
+		</navPoint>
+		<navPoint id="TLA_004" playOrder="5">
+			<navLabel><text>Forward</text></navLabel>
+			<content src="TLA_004.html"/>
+		</navPoint>
+		<navPoint id="TLA_005" playOrder="6">
+			<navLabel><text>Chapter 1: Family Doctor</text></navLabel>
+			<content src="TLA_005.html"/>
+		</navPoint>
+		<navPoint id="TLA_006" playOrder="7">
+			<navLabel><text>Chapter 2: Early Problems</text></navLabel>
+			<content src="TLA_006.html"/>
+		</navPoint>
+		<navPoint id="TLA_007" playOrder="8">
+			<navLabel><text>Chapter 3: The Significance of Trivial Ailments</text></navLabel>
+			<content src="TLA_007.html"/>
+		</navPoint>
+		<navPoint id="TLA_008" playOrder="9">
+			<navLabel><text>Chapter 4: The Piers Family</text></navLabel>
+			<content src="TLA_008.html"/>
+		</navPoint>
+		<navPoint id="TLA_009" playOrder="10">
+			<navLabel><text>Chapter 5: Practice Planning</text></navLabel>
+			<content src="TLA_009.html"/>
+		</navPoint>
+		<navPoint id="TLA_010" playOrder="11">
+			<navLabel><text>Chapter 6: The Unpredictable Emergency</text></navLabel>
+			<content src="TLA_010.html"/>
+		</navPoint>
+		<navPoint id="TLA_011" playOrder="12">
+			<navLabel><text>Chapter 7: General Practitioner and Hospital Beds</text></navLabel>
+			<content src="TLA_011.html"/>
+		</navPoint>
+		<navPoint id="TLA_012" playOrder="13">
+			<navLabel><text>Chapter 8: Doctor and Patient</text></navLabel>
+			<content src="TLA_012.html"/>
+		</navPoint>
+		<navPoint id="TLA_013" playOrder="14">
+			<navLabel><text>Chapter 9: Doctor and Family</text></navLabel>
+			<content src="TLA_013.html"/>
+		</navPoint>
+		<navPoint id="TLA_014" playOrder="15">
+			<navLabel><text>Chapter 10: Responsibilities: Drugs</text></navLabel>
+			<content src="TLA_014.html"/>
+		</navPoint>
+		<navPoint id="TLA_015" playOrder="16">
+			<navLabel><text>Chapter 11: Responsibilities: Certificates</text></navLabel>
+			<content src="TLA_015.html"/>
+		</navPoint>
+		<navPoint id="TLA_016" playOrder="17">
+			<navLabel><text>Chapter 12: Abortion and Contraception</text></navLabel>
+			<content src="TLA_016.html"/>
+		</navPoint>
+		<navPoint id="TLA_017" playOrder="18">
+			<navLabel><text>Chapter 13: Negligence</text></navLabel>
+			<content src="TLA_017.html"/>
+		</navPoint>
+		<navPoint id="TLA_018" playOrder="19">
+			<navLabel><text>Chapter 14: Screening and Research</text></navLabel>
+			<content src="TLA_018.html"/>
+		</navPoint>
+		<navPoint id="TLA_019" playOrder="20">
+			<navLabel><text>Chapter 15: Education</text></navLabel>
+			<content src="TLA_019.html"/>
+		</navPoint>
+		<navPoint id="TLA_020" playOrder="21">
+			<navLabel><text>Chapter 16: Emigration</text></navLabel>
+			<content src="TLA_020.html"/>
+		</navPoint>
+		<navPoint id="TLA_021" playOrder="22">
+			<navLabel><text>Chapter 17: The Faith of a Doctor</text></navLabel>
+			<content src="TLA_021.html"/>
+		</navPoint>
+		<navPoint id="TLA_022" playOrder="23">
+			<navLabel><text>Chapter 18: The Continuity of Family Practice</text></navLabel>
+			<content src="TLA_022.html"/>
+		</navPoint>
+		<navPoint id="TLA_023" playOrder="24">
+			<navLabel><text>Index</text></navLabel>
+			<content src="TLA_023.html"/>
+		</navPoint>
+	</navMap>
+</ncx>

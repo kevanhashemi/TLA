@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+
+	<metadata xmlns:opf="http://www.idpf.org/2007/opf" 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>West Country Doctor</dc:title>
+		<dc:creator opf:file-as="Lane, Kenneth" 
+			opf:role="aut">Kenneth Lane</dc:creator>
+		<dc:subject>Non-Fiction</dc:subject>
+		<dc:subject>Medical</dc:subject>
+		<dc:subject>General</dc:subject>
+		<dc:subject>Biographyt</dc:subject>
+		<dc:language>en</dc:language>
+		<dc:identifier opf:scheme="uuid"
+			id="uuid_id">f3494267-4fbe-4de3-b47d-3ed720a5bc25</dc:identifier>
+    	<dc:date>2024-02-06T22:00:00-05:00</dc:date>
+    	<meta name="cover" content="cover"/>
+	</metadata>
+  
+	<manifest>
+		<item id="cover" href="Cover.jpg" media-type="image/jpeg"/>
+		<item id="backcover" href="Back_Cover.jpg" media-type="image/jpeg"/>
+		<item id="css" href="style.css" media-type="text/css"/>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="TLA_000" href="TLA_000.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_001" href="TLA_001.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_002" href="TLA_002.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_003" href="TLA_003.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_004" href="TLA_004.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_005" href="TLA_005.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_006" href="TLA_006.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_007" href="TLA_007.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_008" href="TLA_008.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_009" href="TLA_009.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_010" href="TLA_010.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_011" href="TLA_011.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_012" href="TLA_012.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_013" href="TLA_013.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_014" href="TLA_014.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_015" href="TLA_015.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_016" href="TLA_016.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_017" href="TLA_017.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_018" href="TLA_018.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_019" href="TLA_019.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_020" href="TLA_020.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_021" href="TLA_021.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_022" href="TLA_022.html" media-type="application/xhtml+xml"/>
+		<item id="TLA_023" href="TLA_023.html" media-type="application/xhtml+xml"/>
+	</manifest>
+
+	<spine toc="ncx">
+		<itemref idref="TLA_000"/>
+		<itemref idref="TLA_001"/>
+		<itemref idref="TLA_002"/>
+		<itemref idref="TLA_003"/>
+		<itemref idref="TLA_004"/>
+		<itemref idref="TLA_005"/>
+		<itemref idref="TLA_006"/>
+		<itemref idref="TLA_007"/>
+		<itemref idref="TLA_008"/>
+		<itemref idref="TLA_009"/>
+		<itemref idref="TLA_010"/>
+		<itemref idref="TLA_011"/>
+		<itemref idref="TLA_012"/>
+		<itemref idref="TLA_013"/>
+		<itemref idref="TLA_014"/>
+		<itemref idref="TLA_015"/>
+		<itemref idref="TLA_016"/>
+		<itemref idref="TLA_017"/>
+		<itemref idref="TLA_018"/>
+		<itemref idref="TLA_019"/>
+		<itemref idref="TLA_020"/>
+		<itemref idref="TLA_021"/>
+		<itemref idref="TLA_022"/>
+		<itemref idref="TLA_023"/>
+	</spine>
+</package>
